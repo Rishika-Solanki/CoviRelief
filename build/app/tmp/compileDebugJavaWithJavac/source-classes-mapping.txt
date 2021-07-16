@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/medicalapp/supply192/BuildConfig.java
+ com.medicalapp.supply192.BuildConfig
