@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Codes\\Flutter\\Hackathon\\supply19\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Codes\\CoviRelief\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\solan\\.gradle\\caches\\transforms-2\\files-2.1\\d481b4719f34ec119768e958e701eaf6\\core-1.1.0\\res\\values\\values.xml",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Codes\\Flutter\\Hackathon\\supply19\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "D:\\Codes\\CoviRelief\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -54,6 +54,25 @@
                         "startOffsets": "8190,8549,8673,8755,8859,8968,9088,9188",
                         "endColumns": "143,123,81,103,108,119,99,76",
                         "endOffsets": "8329,8668,8750,8854,8963,9083,9183,9260"
+                    }
+                },
+                {
+                    "source": "D:\\Codes\\CoviRelief\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,830",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,996"
+                    },
+                    "to": {
+                        "startLines": "123,128",
+                        "startColumns": "4,4",
+                        "startOffsets": "9336,9633",
+                        "endLines": "127,130",
+                        "endColumns": "12,12",
+                        "endOffsets": "9628,9797"
                     }
                 },
                 {
@@ -90,25 +109,6 @@
                         "startOffsets": "5651,6829",
                         "endColumns": "67,166",
                         "endOffsets": "5714,6991"
-                    }
-                },
-                {
-                    "source": "D:\\Codes\\Flutter\\Hackathon\\supply19\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,830",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "472,996"
-                    },
-                    "to": {
-                        "startLines": "123,128",
-                        "startColumns": "4,4",
-                        "startOffsets": "9336,9633",
-                        "endLines": "127,130",
-                        "endColumns": "12,12",
-                        "endOffsets": "9628,9797"
                     }
                 }
             ]

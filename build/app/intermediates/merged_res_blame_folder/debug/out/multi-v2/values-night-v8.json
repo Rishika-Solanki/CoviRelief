@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Codes\\Flutter\\Hackathon\\supply19\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\Codes\\CoviRelief\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\Codes\\Flutter\\Hackathon\\supply19\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\Codes\\CoviRelief\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
